@@ -48,7 +48,6 @@ Após o status da VM mudar para **Running (Executando)**, realizei a conexão ut
 
 1. Verificação de status do sistema.
 2. Teste de conectividade com a internet.
-3. [OPCIONAL: Mencione aqui se instalou algo, como o IIS].
 
 ---
 
@@ -68,7 +67,4 @@ Para cumprir o **Modelo de Responsabilidade Compartilhada** e evitar cobranças 
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **[SEU NOME AQUI]**
-
-- [Link para seu LinkedIn]
-- [Link para seu Portfólio no GitHub]
+Desenvolvido por **Cristiano Batista Pessoa**
